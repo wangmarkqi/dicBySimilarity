@@ -1,3 +1,5 @@
+README.md
+setup.cfg
 setup.py
 dicBySimilarity/__init__.py
 dicBySimilarity/dicBySimilarity.py

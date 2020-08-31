@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: dicBySimilarity
-Version: 0.3
+Version: 0.4
 Summary: Python dictionary, but the keys are recognized by text similarity ratio!
 Home-page: https://github.com/wangmarkqi/dicBySimilarity
 Author: Wang Qi
