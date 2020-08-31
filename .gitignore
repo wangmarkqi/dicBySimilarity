@@ -1,0 +1,10 @@
+.idea/
+.iml
+test/
+logs/
+*.exe
+*.rar
+*.zip
+analysis/
+dataWash/
+

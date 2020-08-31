@@ -1,0 +1,8 @@
+setup.py
+dicBySimilarity/__init__.py
+dicBySimilarity/dicBySimilarity.py
+dicBySimilarity.egg-info/PKG-INFO
+dicBySimilarity.egg-info/SOURCES.txt
+dicBySimilarity.egg-info/dependency_links.txt
+dicBySimilarity.egg-info/requires.txt
+dicBySimilarity.egg-info/top_level.txt

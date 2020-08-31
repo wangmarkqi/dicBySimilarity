@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: dicBySimilarity
+Version: 0.3
+Summary: Python dictionary, but the keys are recognized by text similarity ratio!
+Home-page: https://github.com/wangmarkqi/dicBySimilarity
+Author: Wang Qi
+Author-email: wangmarkqi@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/wangmarkqi/dicBySimilarity.git
+Description: UNKNOWN
+Keywords: fuzzy recognition,text similarity
+Platform: UNKNOWN
